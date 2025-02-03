@@ -10,5 +10,5 @@ pip install pyttsx3
 
 ## Credits and Thanks 
   
-https://www.thepythoncode.com/article/convert-text-to-speech-in-python#Offline_Text_to_Speech
+https://www.thepythoncode.com/article/convert-text-to-speech-in-python#Offline_Text_to_Speech  
 https://github.com/nateshmbhat/pyttsx3
